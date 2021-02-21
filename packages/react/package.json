@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.11.2",
-    "@lingui/core": "^3.5.2"
+    "@lingui/core": "^3.5.1"
   },
   "devDependencies": {
     "react-testing-library": "^8.0.1"
